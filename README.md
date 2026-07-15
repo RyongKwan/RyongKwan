@@ -82,7 +82,6 @@
   📄 **작업내용** : GPU 드라이버 및 CUDA 설치, 멀티 GPU 통신 활성화, Docker Container 환경 구성, NVIDIA Container Toolkit 설치</p>
   📆 **작업기간** : 2026.07.13 ~ 2026.07.14
 
-<br>
 ---
 
 ## ✏️ 자격증 목록
